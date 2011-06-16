@@ -10,7 +10,7 @@
   <packaging>pom</packaging>
   <name>Optimization Chapter Simple Parent Project</name>
 
- <!--... another no op change to get a change in git --> 
+ <!--..... another no op change to get a change in git --> 
   <modules>
     <module>simple-command</module>
     <module>simple-model</module>
